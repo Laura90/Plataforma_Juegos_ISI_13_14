@@ -1,0 +1,12 @@
+control de las puntuaciones en la partida
+
+como jugador
+
+para poder llevar la cuenta de mi puntuacion y la de los demás 
+
+quiero que las puntuaciones se actualicen de manera automáticamente y que me vaya avisando de los mismos cada cierto tiempo. 
+ Visualizar puntuaciones de dos tipos:
+	-Puntuaciones generales de las primeras 100 personas que obtengan mayor puntuación acumulada de todas las partidas que ha 		jugado.
+	-Puntuaciones en juego con las posiciones y puntuaciones instantáneas de cada jugador. Y puntuaciones al final del juego con las posiciones y puntuaciones finales.
+
+Estimacion: 3
